@@ -36,3 +36,13 @@
 /Users/mainframe/RiderProjects/ef-core/yak-now/obj/Debug/net7.0/YakShop.pdb
 /Users/mainframe/RiderProjects/ef-core/yak-now/obj/Debug/net7.0/YakShop.genruntimeconfig.cache
 /Users/mainframe/RiderProjects/ef-core/yak-now/obj/Debug/net7.0/ref/YakShop.dll
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/frontend/.eslintrc.json
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/frontend/components.json
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/frontend/package.json
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/frontend/tsconfig.json
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/frontend/package-lock.json
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mainframe/RiderProjects/ef-core/yak-now/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mainframe/RiderProjects/ef-core/yak-now/obj/Debug/net7.0/YakShop.MvcApplicationPartsAssemblyInfo.cs
